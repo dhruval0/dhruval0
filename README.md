@@ -10,6 +10,7 @@ My name is Dhruval Dhorajia. I am a freelance frontend developer living near Vad
 
 [<img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3178C6" alt="Python logo" title="Python" height="25" />]
 [tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
